@@ -1,3 +1,5 @@
+
+![Create React App](https://www.htmlhints.com/image/react/fetchapi.png).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
